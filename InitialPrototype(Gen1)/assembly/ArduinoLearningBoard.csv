@@ -1,0 +1,18 @@
+Comment,Designator,Footprint,LCSC Part #
+Arduino_Nano_v3.x Arduino Nano v3.x,A1,Arduino_Nano,
+"Buzzer Buzzer, polarized",BZ1,Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm,
+"0.1u Unpolarized capacitor, small symbol","C1,C2,C3,C4,C5,C6,C7,C8,C9,C10",C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,C14663
+WS2812B RGB LED with integrated controller,"D1,D2,D3,D4,D5,D6,D7,D15,D16,D17",LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,C2761795
+LED Light emitting diode,"D8,D9,D10,D11,D12,D13,D14",LED_D5.0mm_Clear,
+MountingHole_Pad Mounting Hole with connection,"H1,H2,H3,H4",MountingHole_4.3mm_M4_Pad_Via,
+"Conn_01x15_Female Generic connector, single row, 01x15, script generated (kicad-library-utils/schlib/autogen/connector/)","J1,J2",PinHeader_1x15_P2.54mm_Vertical,
+"Conn_01x02_Female Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",J3,PinHeader_1x02_P2.54mm_Vertical,
+"Conn_01x06_Female Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",J5,PinHeader_1x06_P2.54mm_Vertical,
+"Conn_01x03_Female Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",J6,PinHeader_1x03_P2.54mm_Vertical,
+100 Resistor,R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,
+220 Resistor,"R2,R5,R7,R9,R10,R12,R13",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,
+R_PHOTO Photoresistor,R3,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,
+10k Resistor,"R4,R6,R8,R11",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,
+R_POT Potentiometer,"RV1,RV2,RV3",Potentiometer_Bourns_PTV09A-1_Single_Vertical,
+SW_SPST Single Pole Single Throw (SPST) switch,"SW1,SW2,SW3",SW_DIP_SPSTx01_Slide_6.7x4.1mm_W7.62mm_P2.54mm_LowProfile,
+"Thermistor_PTC_3wire Temperature dependent resistor, positive temperature coefficient, 3-wire interface",TH1,TO-126-3_Vertical,
