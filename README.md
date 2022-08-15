@@ -48,10 +48,10 @@ However, for those that choose to build this initial prototype, the schematic ca
 
 The feedback I received from both my cousin as well as others I gave the board to was awesome, however, with all projects there is always room for improvement. 
 
-The buttons are too small to easily press. As a manufacturing note, they also do not fit well into the board with glue being required at times to ensure real durability. 
-The rotational potentiometers are large, bulky, and easy to break off. 
-The temperature and light sensors are not attached to the board itself, and instead string off. This can lead to them being damaged in a backpack if not cared for properly.
-For my feedback, using an off the shelf component (specifically the Nano) at the time made sense, but long term is not practical as it adds both manufacturing complexity and reliance on other vendors. I plan to embed the Arduino into the board which will allow the prototyping lab (in my case JLCPCB) to fully assemble the test boards for me. Others can then also place an order for the same configuration without a need to source other components. 
+- The buttons are too small to easily press. As a manufacturing note, they also do not fit well into the board with glue being required at times to ensure real durability. 
+- The rotational potentiometers are large, bulky, and easy to break off. 
+- The temperature and light sensors are not attached to the board itself, and instead string off. This can lead to them being damaged in a backpack if not cared for properly.
+- For my feedback, using an off the shelf component (specifically the Nano) at the time made sense, but long term is not practical as it adds both manufacturing complexity and reliance on other vendors. I plan to embed the Arduino into the board which will allow the prototyping lab (in my case JLCPCB) to fully assemble the test boards for me. Others can then also place an order for the same configuration without a need to source other components. 
 
 
 
