@@ -1,5 +1,27 @@
 (kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 79048a49-d99f-46b1-9ef8-9dab596fa9c7)
+
   (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+
+  (title_block
+    (title "ALP Release Version")
+    (date "2022-08-14")
+    (rev "Revision 1")
+    (company "Copyright (C) 2022 Matthew Rampado")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "This documentation describes Open Hardware and is licensed under the CERN-OHL-S-V2.\n\nYou may redistribute and modify this documentation under the terms of the CERN-OHL-S-V2 (http://ohwr.org/cernohl).\nThis documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, \nSATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-S-V2 for applicable conditions. \n\nIf you chose to manufacture products based on this design, please notify me (see license section 4.2) via matthew@rampado.ca"
+    (at 177.8 177.8 0)
+    (effects (font (size 1 1)) (justify left bottom))
+    (uuid 9a07e8ae-ffa5-4599-b250-f84a7052f0c3)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
 )
