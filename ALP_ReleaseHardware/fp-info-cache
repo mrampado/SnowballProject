@@ -1,4 +1,4 @@
-20412935498781095
+20414596818491378
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -77090,6 +77090,13 @@ NUCLEO144_SHIELD
 0
 100
 100
+Rampado_Master
+SOT65P210X110-6N
+
+
+0
+6
+6
 Rampado_Master
 TE_DT13-08PB
 
