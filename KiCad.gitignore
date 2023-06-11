@@ -1,6 +1,9 @@
 # For PCBs designed using KiCad: https://www.kicad.org/
 # Format documentation: https://kicad.org/help/file-formats/
 
+#Backup location
+TheFirstSnowball(Gen2)/TheFirstSnowball-backups/
+
 # Temporary files
 *.000
 *.bak
