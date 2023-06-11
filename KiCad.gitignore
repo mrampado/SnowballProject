@@ -2,7 +2,7 @@
 # Format documentation: https://kicad.org/help/file-formats/
 
 #Backup location
-TheFirstSnowball(Gen2)/TheFirstSnowball-backups/
+TheFirstSnowball(Gen2)/TheFirstSnowball-backups/*
 
 # Temporary files
 *.000
