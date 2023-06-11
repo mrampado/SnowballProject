@@ -1,7 +1,7 @@
-# Arduino Learning Platform (ALP)
-Arduino Learning Platform was first designed as a simple way to teach my cousin Arduino in Nov 2021 without the frustration of breadboards, wiring, or polarity of LEDs. For many users wanting to start with Arduino, the hardware can be difficult to set up, troubleshoot, and is often not something that many want to deal with. This often leads to frustration in not knowing if the problem is software or hardware related, and the learning experience suffers.
+# Snowball Project
+The snowball project is named off the snowball method. It was started as an Arduino Learning Platform which was first designed as a simple way to teach my cousin Arduino in Nov 2021 without the frustration of breadboards, wiring, or polarity of LEDs. For many users wanting to start with Arduino, the hardware can be difficult to set up, troubleshoot, and is often not something that many want to deal with. This often leads to frustration in not knowing if the problem is software or hardware related, and the learning experience suffers. The goal of the project is to have an easy way for beginners to work with hardware
 
-Arduino Learning Platform was designed to maximize the setup of an Arduino, but in an all-in-one setup that requires no experience in hardware. Most importantly, it just works. 
+The snowball project was designed to maximize the setup of an Arduino, but in an all-in-one setup that requires no experience in hardware. Most importantly, it just works. 
 
 
 ## Initial Prototype
